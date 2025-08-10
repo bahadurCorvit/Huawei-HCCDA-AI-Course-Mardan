@@ -6,7 +6,7 @@ This document outlines the tasks for each group member to ensure a smooth and su
 
 ## Group 1
 
-### Group Leader: Mehwish Ronaq
+### Group Leader: Meriyam Umar
 - **Task 1:** **AI and Machine Learning Fundamentals** - Present an overview of core AI/ML concepts and their connection to Python, NumPy, and Pandas.
 - **Task 2:** Coordinate the group's efforts and ensure all members are on track.
 
@@ -26,7 +26,7 @@ This document outlines the tasks for each group member to ensure a smooth and su
 - **Task 1:** **Huawei ModelArts: The AI Development Platform** - Present a deep dive into ModelArts and how it streamlines the AI lifecycle.
 - **Task 2:** Coordinate the group's efforts and ensure all members are on track.
 
-### Group Member 1: Rida Kanwal
+### Group Member 1: Hooria
 - **Task 1:** **Huawei ModelArts: The AI Development Platform** - Present a deep dive into ModelArts and how it streamlines the AI lifecycle.
 - **Task 2:** Prepare a short demo or a visual aid to support the presentation.
 
